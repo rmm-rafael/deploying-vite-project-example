@@ -38,3 +38,9 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+### Documentation based on
+
+https://learnvue.co/articles/deploy-vue-to-github-pages
+https://www.youtube.com/watch?v=yo2bMGnIKE8
